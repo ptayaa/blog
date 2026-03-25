@@ -60,7 +60,7 @@ section.home{
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(bg1.png);
-    padding-top: 55px;
+    padding-top: 95px;
     height: 100vh;
 }
 .containerhome{
@@ -69,7 +69,7 @@ section.home{
     h1{
         font-size: 100px;
         font-family: 'Henny Penny';
-        margin: 40px 0px 0px 35px;
+        margin: 0px 0px 0px 35px;
     }
     p{
         color: #fdffee;
