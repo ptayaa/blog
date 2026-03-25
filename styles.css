@@ -60,7 +60,7 @@ section.home{
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(bg1.png);
-    padding-top: 95px;
+    padding: 95px 0px 0px 35px;
     height: 100vh;
 }
 .containerhome{
@@ -69,11 +69,10 @@ section.home{
     h1{
         font-size: 100px;
         font-family: 'Henny Penny';
-        margin: 0px 0px 0px 35px;
+        margin: 0px;
     }
     p{
         color: #fdffee;
-        margin-left: 35px;
         font-family: 'Flavors';
         font-size: 25px;
         margin-top: -40px;
@@ -81,7 +80,7 @@ section.home{
 }
 .cat img{
     position: absolute;
-    left: 15px;
+    left: -20px;
     top: 8.5px;
     width: 50px;
     transform: rotate(-20deg);
