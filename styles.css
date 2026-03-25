@@ -90,7 +90,7 @@ section.home{
     transform: scale(1.1) rotate(-22deg);
     transition: 0.3s;
 }
-section.project{
+section.about{
     background-color: #fce5c0;
     margin: 40px auto;
     align-items: center;
